@@ -4,15 +4,14 @@ CloudCoin Pocket Bank v. 2.0
 
 
 
-## The app comprises several Servants that are independent modules and can be compiled as a standalone applcation, if necessary
+## The app is comprised of several Servants that are independent modules and can be compiled as a standalone application, if necessary.
 
 The app meets the standards: https://cloudcoinconsortium.org/software.html
 
 
-All servants can be invoked through a direct function call or a file command can be issued to the Command Folder (to be implemented)
+All servants can be invoked through a direct function call, or a file command can be issued to the Command Folder (for implementation)
 
-If called by a direct call, each Servant has to be registered in the ServiceRegistry
-
+If called by a direct call, each Servant has to be registered in the ServiceRegistry.
 
 ```java
 
